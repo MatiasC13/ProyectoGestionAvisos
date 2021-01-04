@@ -1,0 +1,5 @@
+C:\Users\Matias\Documents\Analista de Sistemas\1 - Programador.Net\Visual Studio 2010\Segundo_Obligatorio_POO_2020\Segundo_Obligatorio_POO_2020\bin\Debug\Segundo_Obligatorio_POO_2020.exe
+C:\Users\Matias\Documents\Analista de Sistemas\1 - Programador.Net\Visual Studio 2010\Segundo_Obligatorio_POO_2020\Segundo_Obligatorio_POO_2020\bin\Debug\Segundo_Obligatorio_POO_2020.pdb
+C:\Users\Matias\Documents\Analista de Sistemas\1 - Programador.Net\Visual Studio 2010\Segundo_Obligatorio_POO_2020\Segundo_Obligatorio_POO_2020\obj\x86\Debug\Segundo_Obligatorio_POO_2020.exe
+C:\Users\Matias\Documents\Analista de Sistemas\1 - Programador.Net\Visual Studio 2010\Segundo_Obligatorio_POO_2020\Segundo_Obligatorio_POO_2020\obj\x86\Debug\Segundo_Obligatorio_POO_2020.pdb
+C:\Users\Matias\Documents\Analista de Sistemas\1 - Programador.Net\Visual Studio 2010\Segundo_Obligatorio_POO_2020\Segundo_Obligatorio_POO_2020\obj\x86\Debug\Segundo_Obligatorio_POO_2020.csprojResolveAssemblyReference.cache
